@@ -1,0 +1,5 @@
+train : F:/Tomato/Tomato/YOLO/dataset/train
+val : F:/Tomato/Tomato/YOLO/dataset/valid
+
+nc: 9
+names: ['BacterialSpot','BlackMold','GraySpot','Healthy','LateBlight','MosaicVirus','PowderyMildew','SeptorialSpot','YellowLeafCurlVirus']
